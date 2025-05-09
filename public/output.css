@@ -929,18 +929,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-header{
-  background-color: blue;
-}
-
-.property-description {
-  font-size: 1.2rem; 
-}
-
-.home-detail-image {
-  border: 1px solid black;
-}
-
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
